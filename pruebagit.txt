@@ -3,3 +3,5 @@ modificacion pruebagit.txt
 
 hola
 modificando
+
+Nuestro fichero es el bueno, no nos gustan los conflictos
